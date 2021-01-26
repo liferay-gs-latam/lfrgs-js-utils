@@ -1,7 +1,7 @@
-import chunk from './utilities/chunk';
-import debounce from './utilities/debounce';
-import normalizeSearchString from './utilities/normalizeSearchString';
-import scrollTo from './utilities/scrollTo';
+import chunk from './src/utilities/chunk';
+import debounce from './src/utilities/debounce';
+import normalizeSearchString from './src/utilities/normalizeSearchString';
+import scrollTo from './src/utilities/scrollTo';
 
 export {
     chunk,
