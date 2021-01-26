@@ -1,0 +1,19 @@
+{
+  "name": "lfrgs-js-utils",
+  "version": "1.0.0",
+  "description": "Utilitary scripts",
+  "main": "utilities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liferay-gs-latam/lfrgs-js-utils.git"
+  },
+  "author": "Bruno Wacemberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liferay-gs-latam/lfrgs-js-utils/issues"
+  },
+  "homepage": "https://github.com/liferay-gs-latam/lfrgs-js-utils#readme"
+}
