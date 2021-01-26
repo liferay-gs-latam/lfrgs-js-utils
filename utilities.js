@@ -3,7 +3,7 @@ import debounce from './src/utilities/debounce';
 import normalizeSearchString from './src/utilities/normalizeSearchString';
 import scrollTo from './src/utilities/scrollTo';
 
-export {
+exports = {
     chunk,
     debounce,
     normalizeSearchString,

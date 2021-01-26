@@ -1,6 +1,6 @@
 {
   "name": "lfrgs-js-utils",
-  "version": "1.0.0",
+  "version": "0.1",
   "description": "Utilitary scripts",
   "main": "utilities.js",
   "scripts": {
